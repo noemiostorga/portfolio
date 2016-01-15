@@ -121,6 +121,10 @@ filter: grayscale(100%);
 }
 
 
+.title{
+  text-align: center;
+}
+
 /***************
 EASYLIVING
 ******************/
