@@ -65,11 +65,14 @@ HEADER
 *************************/
 
 .headerBanner{
-  background: url("http://static1.squarespace.com/static/5638df47e4b06c9311953257/t/564dd8dfe4b039af38ffa935/1447942370164/girl+right+side.sm.jpg?format=1500w") no-repeat;
+  /*background: url("http://static1.squarespace.com/static/5638df47e4b06c9311953257/t/564dd8dfe4b039af38ffa935/1447942370164/girl+right+side.sm.jpg?format=1500w") no-repeat;
   background-size: 100%;
   height: 600px;
 -webkit-filter: grayscale(100%);
 filter: grayscale(100%);
+*/
+height: 600px;
+margin: 0px auto;
 
 }
 
@@ -77,8 +80,8 @@ filter: grayscale(100%);
   background: rgba(255,255,255,.7);
   font-size: 25px;
   width: 50%;
-  min-height: 50%;
-  margin: 0px 30px;
+  height: 50%;
+  margin: 0px auto;
   position: relative;
   top: 70px;
   font-weight: lighter;
