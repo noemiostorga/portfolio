@@ -17,17 +17,19 @@ NAVBAR
 
 }
 
-.naveUl li{
+.naveUl li {
   text-align: center;
+
 }
 
 
 
-.nave ul li {
+.nave ul li{
   list-style: none;
   display: inline;
   margin-top: 50px;
   margin-left: 60px;
+
   transition: font-weight .3s;
 }
 
@@ -49,7 +51,15 @@ NAVBAR
   
 }
 
+.socialBtn{
+  list-style: none;
 
+}
+
+.socialBtn li{
+  list-style: none;
+  display: inline;
+}
 /*************************
 HEADER
 *************************/
@@ -114,6 +124,11 @@ filter: grayscale(100%);
 /***************
 EASYLIVING
 ******************/
+
+.easyliving a{
+  text-decoration: none;
+}
+
 .containerEasy{
   width: 80%;
   margin: 100px auto;
@@ -178,6 +193,10 @@ height: 350px;
   margin-top: 50px;
  /* background: blue;*/
   width: 70%;
+}
+
+.itemsDes{
+  text-decoration: none;
 }
 
 /*clock*/
@@ -274,9 +293,18 @@ form input{
 
 
 
+/****************
+STUDY
+*****************/
+.study{
+  text-align: center;
+  margin: 50px auto;
+  width: 80%;
+}
 
-
-
+.study p{
+  text-align: left;
+}
 
 
 
