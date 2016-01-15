@@ -123,9 +123,18 @@ margin: 0px auto;
   color:black;
 }
 
+.title1{
+  text-align: center;
+  background: rgba(111,111,111,.4);
+  width: 40%;
+  margin: 30px auto;
+}
 
 .title{
-  text-align: center;
+    text-align: center;
+  background: rgba(111,111,111,.4);
+  width: 40%;
+  margin: 30px auto;
 }
 
 /***************
