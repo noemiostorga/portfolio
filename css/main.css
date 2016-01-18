@@ -125,14 +125,14 @@ margin: 0px auto;
 
 .title1{
   text-align: center;
-  background: rgba(111,111,111,.4);
+/*  background: rgba(111,111,111,.4);*/
   width: 40%;
   margin: 30px auto;
 }
 
 .title{
     text-align: center;
-  background: rgba(111,111,111,.4);
+/*  background: rgba(111,111,111,.4);*/
   width: 40%;
   margin: 30px auto;
 }
@@ -312,6 +312,15 @@ form input{
 /****************
 STUDY
 *****************/
+.studyHeader{
+
+  width: 100%;
+}
+
+
+
+
+
 .study{
   text-align: center;
   margin: 50px auto;
