@@ -1,0 +1,15 @@
+.container{
+	width: 100%;
+}
+
+.headerBanner{
+	background: red;
+}
+
+.hello{
+	display:inline;
+}
+
+.what{
+	background: blue;
+}

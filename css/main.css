@@ -5,6 +5,12 @@ body{
 NAVBAR
 *************************/
 
+
+
+
+
+
+
 .nave{
   background: black;
   padding-top: 10px;
@@ -80,7 +86,7 @@ margin: 0px auto;
   font-size: 25px;
   width: 50%;
   height: 50%;
-  margin: 0px auto;
+
   position: relative;
   top: 70px;
   font-weight: lighter;
@@ -88,17 +94,19 @@ margin: 0px auto;
 
 }
 
-.intro{
+.hello{
   font-size: 2em;
   font-weight: 600;
   display: inline;
-  padding-right: 10px;
+  position: relative;
+  float:left;
 
 }
 
 .intro2{
   border-left: 1px solid black;
   padding-left: 10px;
+
 }
 
 .socialBtn{
