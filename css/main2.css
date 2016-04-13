@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 	margin: 0px auto;
 	padding: 0px;
@@ -83,3 +84,20 @@ PORTFOLIO
 
 
 
+=======
+.container{
+	width: 100%;
+}
+
+.headerBanner{
+	background: red;
+}
+
+.hello{
+	display:inline;
+}
+
+.what{
+	background: blue;
+}
+>>>>>>> b535fa7a2e80cb1e042d220844b4bbfb2b9024af
