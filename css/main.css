@@ -4,6 +4,10 @@ body {
 }
 
 
+.section{
+  height: auto !important;
+}
+
 .container{
   margin: 0px;
   padding: 0px;
