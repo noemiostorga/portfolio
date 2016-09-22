@@ -4,18 +4,10 @@ body {
 }
 
 
-.hey{
+.container{
   margin: 0px;
   padding: 0px;
-}
-
-p{
-  background: red;
-  color: white;
-}
-
-.one{
-  background: blue;
+  background: green;
 }
 
 .two{
@@ -24,6 +16,15 @@ p{
 
 .three{
   background: yellow;
+}
+
+.p{
+  background: orange;
+
+}
+
+.l{
+  background: red;
 }
 
 
