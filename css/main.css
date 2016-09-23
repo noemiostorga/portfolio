@@ -4,17 +4,14 @@ body {
 }
 
 
-.section{
-  height: 100%;
-}
+
 
 .container{
   margin: 0px;
   padding: 0px;
   background: green;
   margin: 0px auto;
-
-
+  
 }
 
 .two{
