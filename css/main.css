@@ -33,8 +33,12 @@ SECTION 1
   background: pink;
 }
 
-.socialLinks{
 
+.selfieImg{
+  background: url("../images/photo.jpg");
+  height: 20px;
+  width: 20px;
+  background-size: 100% 100%;
 }
 
 
