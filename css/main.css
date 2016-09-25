@@ -14,6 +14,34 @@ body {
   
 }
 
+
+/*******************
+SECTION 1 
+*******************/
+
+.intro{
+  background: yellow;
+  height: 300px;
+
+}
+
+.selfie{
+  background: red;
+  height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .two{
   background: red;
 }
