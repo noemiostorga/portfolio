@@ -26,9 +26,20 @@ SECTION 1
 
 .intro{
   background: yellow;
+  text-align: center;
+}
 
+.socialLinks{
+  background: pink;
+}
+
+.socialLinks{
 
 }
+
+
+
+
 
 .selfie{
   background: red;
