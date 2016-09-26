@@ -26,7 +26,6 @@ SECTION 1
 
 .intro{
   background: yellow;
-  text-align: center;
   color : white;
 }
 
@@ -37,8 +36,15 @@ SECTION 1
 .greeting{
   background: blue;
   border-radius: 100%;
-  height: 300px;
-  width: 300px;
+  height: 350px;
+  width: 350px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+.greeting p {
+  width: 70%;
   margin: 0 auto;
 
 }
