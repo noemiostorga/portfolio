@@ -103,8 +103,11 @@ form {
 input {
   width: 48%;
   display: inline-block;
-  margin: 5px auto;
+  margin: 10px auto;
 }
+
+
+
 
 
 .col-centered{
@@ -116,6 +119,11 @@ input {
 .submit{
   margin:5px auto;
 }
+
+
+
+
+
 
 
 .two{
