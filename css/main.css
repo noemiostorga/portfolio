@@ -29,9 +29,6 @@ SECTION 1
   color : white;
 }
 
-.socialLinks{
-  background: pink;
-}
 
 .greeting{
   background: blue;
@@ -49,6 +46,15 @@ SECTION 1
 
 }
 
+
+.socialLinks{
+  background: pink;
+  margin-top: 55px;
+}
+
+.socialLinks a {
+  text-decoration: none;
+}
 
 .selfieImg{
   background: url("../images/photo.jpg");
