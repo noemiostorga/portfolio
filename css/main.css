@@ -81,13 +81,29 @@ PORTFOLIO
   width: 100%;
   height: 150px;
   margin: 10px auto;
+  cursor: pointer;
 
 }
 
+.overlay{
+  
+}
 /***********
 CONTACT
 ************/
 
+h2{
+  text-align: center;
+}
+
+form {
+  margin : 0 auto;
+}
+
+input {
+  width: 48%;
+  display: inline-block;
+}
 
 
 
