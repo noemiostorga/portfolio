@@ -40,20 +40,30 @@ SECTION 1
 
 }
 
+
+
 .greeting p {
   width: 70%;
-  margin: 0 auto;
+  margin: 0px auto;
 
+}
+
+.description{
+  margin-top: 0px;
 }
 
 
 .socialLinks{
   background: pink;
-  margin-top: 55px;
+/*  margin-top: 55px;*/
 }
 
 .socialLinks a {
   text-decoration: none;
+}
+
+.btn{
+  background:red;
 }
 
 .selfieImg{
