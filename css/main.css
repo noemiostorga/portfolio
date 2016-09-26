@@ -103,13 +103,20 @@ form {
 input {
   width: 48%;
   display: inline-block;
+  margin: 5px auto;
 }
+
 
 .col-centered{
   float: none;
   margin: 0 auto;
   display: block;
 }
+
+.submit{
+  margin:5px auto;
+}
+
 
 .two{
   background: red;
