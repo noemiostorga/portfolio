@@ -30,7 +30,7 @@ SECTION 1
 }
 
 
-.greeting{
+.greetingCircle{
   background: blue;
   border-radius: 100%;
   height: 350px;
@@ -41,10 +41,9 @@ SECTION 1
 }
 
 
-
-.greeting p {
+.greetingCircle p {
   width: 70%;
-  margin: 0px auto;
+  margin: 60px auto 0px auto;
 
 }
 
