@@ -105,7 +105,11 @@ input {
   display: inline-block;
 }
 
-
+.col-centered{
+  float: none;
+  margin: 0 auto;
+  display: block;
+}
 
 .two{
   background: red;
