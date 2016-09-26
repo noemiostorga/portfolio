@@ -40,7 +40,10 @@ SECTION 1
 
 }
 
-
+.greetingCircle h1{
+  position: relative;
+  top: 30px;
+}
 
 
 .greetingCircle p {
