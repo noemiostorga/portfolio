@@ -42,7 +42,7 @@ SECTION 1
 .circle{
   background: white;
   height: 100%;
-  width: 60vh;
+  max-width: 60vh;
   border-radius: 50%;
   margin: 0 auto;
 }
