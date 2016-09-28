@@ -79,6 +79,15 @@ SECTION 1
   padding: 0px;
 }
 
+.profile-image{
+  background: url("../images/photo.jpg");
+  height: 100%;
+  width: 100%;
+  background-size: 100% 100%;
+  border-radius: 50%;
+}
+
+
 
 @media (max-width: 768px){
   .section-one-row{
