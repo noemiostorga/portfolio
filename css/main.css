@@ -11,7 +11,7 @@ font-family: 'Julius Sans One', sans-serif;
 .container{
   margin: 0px;
   padding: 0px;
-/*  background: green;*/
+  background: green;
   margin: 0px auto;
   
 }
@@ -32,12 +32,12 @@ SECTION 1
 }
 
 .section-one-row{
-  height: 60vh;
-  margin: 20vh auto;
+  height: 80vh;
+  margin: 10vh auto;
 }
 
 .intro-column{
-/*  background: red;*/
+  background: red;
   height:100%;
   padding: 0px;
   margin: 0px;
@@ -45,7 +45,7 @@ SECTION 1
 
 .circle{
   height: 100%;
-  max-width: 60vh;
+  max-width: 90vh;
   border-radius: 50%;
   margin: 0 auto;
   background: yellow;
@@ -74,23 +74,25 @@ SECTION 1
 /*right*/
 
 .profile-circle{
-  background: white;
+  background: red;
 }
 
 .profile-image-column{
-/*  background: blue;*/
+  background: blue;
   height: 100%;
   margin: 0px;
   padding: 0px;
 }
 
 .profile-image{
-  background: url("../images/photo.jpg");
-  height: 80%;
-  width: 80%;
-  background-size: 100% 100%;
-  border-radius: 50%;
-  margin: 0 auto;
+    background: url("../images/photo.jpg");
+    height: 80%;
+    width: 80%;
+    background-size: 100% 100%;
+    border-radius: 50%;
+    margin: 0px auto;
+    position: relative;
+    top: 10%;
 }
 
 .socialLinks{
