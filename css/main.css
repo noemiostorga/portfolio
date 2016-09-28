@@ -23,6 +23,8 @@ body {
 /*******************
 SECTION 1 
 *******************/
+
+/*left*/
 .section-one-container{
   height: 100vh;
 }
@@ -46,6 +48,26 @@ SECTION 1
   border-radius: 50%;
   margin: 0 auto;
 }
+
+.circleContent{
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+.circleContent h1{
+  text-align: center;
+  margin: 0 auto;
+  padding: 10%;
+}
+
+.circleContent p{
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+/*right*/
 
 .profile-image-column{
   background: blue;
