@@ -34,12 +34,16 @@ SECTION 1
 
 .intro-column{
   background: red;
-  height: 100%;
+  height:100%;
+  padding: 0px;
+  margin: 0px;
 }
 
 .profile-image-column{
   background: blue;
   height: 100%;
+  margin: 0px;
+  padding: 0px;
 }
 
 
