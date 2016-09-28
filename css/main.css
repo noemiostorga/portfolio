@@ -112,7 +112,20 @@ SECTION 1
 
 .socialLinks ul a li{
   display: inline;
-  font-size: 3.5em;
+  margin: 2%;
+ 
+}
+
+.socialLinks ul a li i{
+   font-size: 3.5em;
+   padding: 10px;
+   color: red;
+   transition: all 1s ease ;
+}
+
+.socialLinks ul a li i:hover{
+ transform: scale(1.1); 
+ color: blue;
 }
 
 
@@ -132,7 +145,7 @@ SECTION 1
   }
 
   .socialLinks ul a li {
-    padding: 20px;
+  
   }
 
   .socialLinks{
