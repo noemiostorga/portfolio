@@ -39,6 +39,14 @@ SECTION 1
   margin: 0px;
 }
 
+.circle{
+  background: white;
+  height: 100%;
+  width: 60vh;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
 .profile-image-column{
   background: blue;
   height: 100%;
