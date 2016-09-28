@@ -97,6 +97,7 @@ SECTION 1
     margin: 0px auto;
     position: relative;
     top: 10%;
+    left: 10%;
 }
 
 .socialLinks{
@@ -138,7 +139,10 @@ SECTION 1
   .section-one-row{
     height: 50vh;
     margin: 0vh auto;
- }
+  }
+   .profile-image {
+    left: 0%;
+  }
 }
 
 
@@ -156,10 +160,8 @@ SECTION 1
     width: 100%;
     margin: 15px auto;
   }
-  .profile-image {
-    top: 10%;
-    left: 10%;
-  }
+
+
 }
 
 /***************
