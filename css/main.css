@@ -125,6 +125,22 @@ SECTION 1
 }
 
 
+
+@media (min-width: 1200px) {
+  .circleContent p {
+    font-size: 1.4em;
+  }
+
+  .socialLinks ul a li {
+    padding: 20px;
+  }
+
+  .socialLinks{
+    width: 100%;
+    margin: 25px auto;
+  }
+}
+
 /***************
 PORTFOLIO
 **************/
