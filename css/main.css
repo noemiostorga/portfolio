@@ -134,8 +134,8 @@ SECTION 1
 }
 
 
-
-@media (max-width: 768px){
+/*xs-small*/
+@media (max-width: 769px){
   .section-one-row{
     height: 50vh;
     margin: 0vh auto;
@@ -145,8 +145,58 @@ SECTION 1
   }
 }
 
+/*weird middle space*/
+
+@media (min-width: 768px) and (max-width: 769px) { 
+  
+    .section-one-row{
+      height: 50vh;
+      margin: 25vh auto;
+    }
+    .circleContent p {
+      font-size: .9em;
+    }
+    .socialLinks ul a li i {
+      font-size: 2em;
+    }
+}
 
 
+/*small*/
+
+
+@media (min-width: 770px) and (max-width: 991px) { 
+  
+    .section-one-row{
+      height: 50vh;
+      margin: 25vh auto;
+    }
+    .circleContent p {
+      font-size: .9em;
+    }
+    .socialLinks ul a li i {
+      font-size: 2em;
+    }
+}
+
+
+/*medium screen*/
+@media (min-width: 992px) and (max-width: 1199px){ 
+  .section-one-row {
+    height: 65vh;
+    margin: 18vh auto;
+  }
+  .circleContent p {
+    font-size: 1.1em;
+  }
+  .socialLinks{
+    width: 100%;
+    margin: 15px auto;
+  }
+
+}
+
+/*large screen*/
 @media (min-width: 1200px) {
   .circleContent p {
     font-size: 1.4em;
