@@ -136,13 +136,26 @@ SECTION 1
 
 /*xs-small*/
 @media (max-width: 769px){
+  .circle{
+    max-width: 60vh;
+
+  }
   .section-one-row{
     height: 50vh;
-    margin: 0vh auto;
+    margin: 2vh auto;
   }
    .profile-image {
     left: 0%;
   }
+  .circleContent p {
+    /* text-align: center; */
+    /* margin: 0 auto; */
+    font-size: .9em;
+  }
+  .socialLinks ul a li i {
+    font-size: 2.5em;
+  }
+
 }
 
 /*weird middle space*/
