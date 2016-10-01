@@ -295,7 +295,9 @@ input {
   margin: 5px auto;
 }
 
-
+textarea{
+  height: 20vh;
+}
 
 
 
