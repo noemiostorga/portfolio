@@ -264,6 +264,14 @@ h2{
 /***********
 CONTACT
 ************/
+.contact-section{
+  height: 100vh;
+  width: 100%;
+  background: green;
+}
+
+
+
 
 h2{
   text-align: center;
