@@ -139,8 +139,10 @@ SECTION 1
 PORTFOLIO
 **************/
 
-h2{
-  padding: 15px;
+
+
+.portfolio-row{
+  margin: 25px auto;
 }
 
 .portfolio-img{
