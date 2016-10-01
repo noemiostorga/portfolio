@@ -274,7 +274,9 @@ CONTACT
   background: purple;
 }
 
-
+.contact-row{
+  margin: 20vh auto;
+}
 
 
 
