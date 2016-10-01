@@ -265,7 +265,7 @@ h2{
 CONTACT
 ************/
 .contact-section{
-  height: 600px;
+  height: 100vh;
   width: 100%;
   background: green;
 }
@@ -275,10 +275,12 @@ CONTACT
 }
 
 .contact-row{
-  margin: 20vh auto;
+  margin: 30vh auto;
 }
 
-
+.footer{
+  text-align: center;
+}
 
 h2{
   text-align: center;
