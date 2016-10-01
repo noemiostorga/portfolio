@@ -265,16 +265,16 @@ h2{
 CONTACT
 ************/
 .contact-section{
-  height: 100vh;
+  height: 600px;
   width: 100%;
   background: green;
 }
 
 .contact-section{
   background: purple;
-  height: auto;
-  
 }
+
+
 
 
 
@@ -283,7 +283,6 @@ h2{
 }
 
 form {
-  margin : 0 auto;
 }
 
 input {
