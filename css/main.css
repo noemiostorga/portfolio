@@ -38,21 +38,19 @@ video{
     padding: 0px;
     margin: 0px;
     width: 100%;
-    
+    background: url("../images/background.jpg") no-repeat;
 }
 
 
 .section-one-row{
-/*  height: 80vh;
+  height: 80vh;
   margin: 10vh auto;
   width: 90%;
   position: relative;
   z-index: 2;
-  background: red;*/
-  height: 65vh;
+/*  height: 65vh;
     position: relative;
-    /* margin: 18vh auto; */
-    bottom: 100vh;
+    bottom: 100vh;*/
 }
 
 .intro-column{
