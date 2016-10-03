@@ -163,7 +163,7 @@ PORTFOLIO
   position: relative;
   text-align: center;
   cursor: default;
-  background: #42b078;
+  background: pink;
 }
 
 .hovereffect .overlay {
@@ -187,7 +187,6 @@ PORTFOLIO
   height: 150px;
   margin: 10px auto;
   cursor: pointer;
-
   display: block;
   position: relative;
   -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
