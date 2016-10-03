@@ -158,12 +158,11 @@ PORTFOLIO
 .hovereffect {
   width: 100%;
   height: 100%;
-  float: left;
   overflow: hidden;
   position: relative;
   text-align: center;
   cursor: default;
-  background: pink;
+  background: black;
 }
 
 .hovereffect .overlay {
