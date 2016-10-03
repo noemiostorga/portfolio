@@ -33,13 +33,15 @@ SECTION 1
     padding: 0px;
     margin: 0px;
     width: 100%;
-    background: url("../images/background.jpg") repeat-x;
-     -webkit-animation: animatedBackground 8s linear infinite;
+    background: url("../images/lv.jpg") repeat-x;
+    background-attachment: fixed;
+   /* background-position: 50% 35%;*/
+     -webkit-animation: animatedBackground 35s linear infinite;
 }
 
 @keyframes animatedBackground {
-  from {  background-position: 0 0; }
-  to {  background-position: 100% 0; }
+  from {  background-position: 0% 35%; }
+  to {  background-position: 100% 35%; }
 }
 
 
@@ -144,7 +146,7 @@ SECTION 1
 
 .socialLinks ul a li i:hover{
  transform: scale(1.1); 
- color: black;
+ color: #7F525D;
 }
 
 
@@ -287,7 +289,7 @@ CONTACT
 }
 
 .contact-section{
-  background: purple;
+  background: transparent;
 }
 
 .contact-row{
@@ -315,12 +317,18 @@ textarea{
   height: 20vh;
 }
 
+.submit{
+  border: none;
+  background: #7F525D;
+  color: white;
+}
 
 
 .col-centered{
   float: none;
   margin: 0 auto;
   display: block;
+
 }
 
 .submit{
