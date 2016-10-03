@@ -27,6 +27,7 @@ SECTION 1
 
 video{
   width: 100%;
+  height: 100vh;
   position: relative;
   z-index: 0;
 }
@@ -42,12 +43,16 @@ video{
 
 
 .section-one-row{
-  height: 80vh;
+/*  height: 80vh;
   margin: 10vh auto;
   width: 90%;
   position: relative;
   z-index: 2;
-  background: red;
+  background: red;*/
+  height: 65vh;
+    position: relative;
+    /* margin: 18vh auto; */
+    bottom: 100vh;
 }
 
 .intro-column{
