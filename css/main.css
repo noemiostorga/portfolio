@@ -285,11 +285,7 @@ CONTACT
 .contact-section{
   height: 100vh;
   width: 100%;
-  background: green;
-}
-
-.contact-section{
-  background: transparent;
+  background: #7F525D;
 }
 
 .contact-row{
