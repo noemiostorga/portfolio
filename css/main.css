@@ -138,13 +138,13 @@ SECTION 1
 .socialLinks ul a li i{
    font-size: 3.5em;
    padding: 2%;
-   color: red;
+   color: rgba(0,0,0,.6);
    transition: all 1s ease ;
 }
 
 .socialLinks ul a li i:hover{
  transform: scale(1.1); 
- color: blue;
+ color: black;
 }
 
 
